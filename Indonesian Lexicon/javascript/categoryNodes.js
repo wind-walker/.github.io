@@ -14,3 +14,5 @@ ICONPATH = '../images/' //change if the gif's folder is a subfolder, for example
 
 foldersTree = gFld("<i>Categories</i>", "")
   aux1 = insFld(foldersTree, gFld("Active verb", "c1.htm"))
+  aux1 = insFld(foldersTree, gFld("Passive verb", "c2.htm"))
+  aux1 = insFld(foldersTree, gFld("Animal", "c3.htm"))
